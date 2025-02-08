@@ -1,5 +1,11 @@
+# Nama Program : Program Menghitung Pajak
+# Nama Programmer : Adedayesa Nurvitian
+# Waktu Pengerjaan : 29 Januari 2025
+
+# input harga barang
 harga_barang = float(input("Masukkan harga barang : "))
 
+# besar pajak
 pajak = 0.11
 
 # pajak yang harus di bayar
