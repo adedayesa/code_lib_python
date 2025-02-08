@@ -1,6 +1,6 @@
-# Nama Program : Program Menghitung Penjumlahan
-# Nama Programmer : Adedayesa Nurvitian
-# Waktu Pengerjaan : 29 Januari 2025
+# Program : Penjumlahan Dua Bilangan
+# Programmer : Adedayesa Nurvitian
+# Tanggal (v1.0) : 29 Januari 2025
 
 # input nilai
 nilai1 = int(input("Masukkan nilai pertama : "))
