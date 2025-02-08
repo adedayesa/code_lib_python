@@ -1,6 +1,6 @@
-# Nama Program : Program Menghitung Pajak
-# Nama Programmer : Adedayesa Nurvitian
-# Waktu Pengerjaan : 29 Januari 2025
+# Program : Menghitung Pajak
+# Programmer : Adedayesa Nurvitian
+# Tanggal (v1.0) : 29 Januari 2025
 
 # input harga barang
 harga_barang = float(input("Masukkan harga barang : "))
